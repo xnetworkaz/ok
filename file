@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/60945f0b0eff382ec320949b" group-title="News",NewsMax
+https://newsmax.codeautoplaycdn2.workers.dev/
+#EXTINF:-1 tvg-logo="https://example.com/logo.png" group-title="Startup Shows",Startup Show Episode 2
+https://streaming.example.com/startupshow/episode2.m3u8
